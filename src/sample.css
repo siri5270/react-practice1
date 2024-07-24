@@ -1,0 +1,11 @@
+
+h1{
+    color: blue;
+}
+
+h1 {
+    color: blue; /* Change color to your preference */
+    font-size: 24px; /* Change font size to your preference */
+    text-align: center; /* Align text as needed */
+    /* Add more styles as desired */
+}
